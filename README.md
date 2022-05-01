@@ -1,6 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/-kamilacamargo-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kamila-camargo/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/CalouraD)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=+5547996067498)](https://web.whatsapp.com/send?phone=+5547996067498) 
 [![Gmail](https://img.shields.io/badge/-camargo.kmila%40gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:camargo.kmila@gmail.com)
 
 
