@@ -5,10 +5,10 @@
 
 ### Olá. Meu nome é Kamila Camargo 👋
 
-Sou natural de Curitiba/PR e moro em Joinville/SC desde muito nova.
+Sou natural de Curitiba/PR, morei em Joinville/SC desde muito nova e recentemente mudei para São Paulo/SP.
 
 - Estudante do curso de análise e desenvolvimento de sistemas na Universidade do Estado de Santa Catarina.
-- Atualmente trabalho como desenvolvedora Ruby on Rails remotamente para uma empresa de São Paulo/SP onde venho aprendendo muita coisa sobre diversar ferramentas como Kibana, Grafana, Vault, Rollbar,Elasticsearch, SQL, Sidekiq e Swagger
+- Atualmente trabalho como desenvolvedora Ruby on Rails remotamente para uma empresa de São Paulo/SP onde venho aprendendo muita coisa sobre diversar ferramentas.
 - No meu Github você vai encontrar um pouco do que estudo, projetos pessoais e trabalhos academicos. 
 
 ### Sinta-se a vontade para entrar em contato!
